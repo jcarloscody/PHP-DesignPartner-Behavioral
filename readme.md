@@ -1,6 +1,4 @@
-[Derivado do Curso de Design Pattern](https://cursos.alura.com.br/certificate/4d649a9d-d3fd-4bbf-bd65-de431e778898)
-
-[Linkedin](https://www.linkedin.com/pulse/php-design-pattern-behavioral-josu%2525C3%2525A9-carlos%3FtrackingId=fO5FK5xORvmoKVN%252BQgUdow%253D%253D/?trackingId=fO5FK5xORvmoKVN%2BQgUdow%3D%3D)
+[Parte 2](https://github.com/jcarloscody/PHP-DesignPartner-Structural)
 
 Modelagem não é uma tarefa facil, porém é algo fascinante, porque te desafia a entender a complexidade dos problemas do mundo, logo após isto abstrair em um conjunto de conceitos gerais ou genéricos e precisos para que a partir deste momento possamos desenvolver uma solução. 
 
